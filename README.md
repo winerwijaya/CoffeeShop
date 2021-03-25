@@ -1,3 +1,3 @@
 # CoffeeShop
-This is Coffee Shop project
-this project using c language
+This is simple Coffee Shop project\n
+this project using c language\n
